@@ -1,0 +1,11 @@
+C:\Users\jessy\Desktop\Calculator-3000-The-RPG\Solution\Calculator3000\bin\Debug\netcoreapp3.0\Calculator3000.exe
+C:\Users\jessy\Desktop\Calculator-3000-The-RPG\Solution\Calculator3000\bin\Debug\netcoreapp3.0\Calculator3000.deps.json
+C:\Users\jessy\Desktop\Calculator-3000-The-RPG\Solution\Calculator3000\bin\Debug\netcoreapp3.0\Calculator3000.runtimeconfig.json
+C:\Users\jessy\Desktop\Calculator-3000-The-RPG\Solution\Calculator3000\bin\Debug\netcoreapp3.0\Calculator3000.runtimeconfig.dev.json
+C:\Users\jessy\Desktop\Calculator-3000-The-RPG\Solution\Calculator3000\bin\Debug\netcoreapp3.0\Calculator3000.dll
+C:\Users\jessy\Desktop\Calculator-3000-The-RPG\Solution\Calculator3000\bin\Debug\netcoreapp3.0\Calculator3000.pdb
+C:\Users\jessy\Desktop\Calculator-3000-The-RPG\Solution\Calculator3000\obj\Debug\netcoreapp3.0\Calculator3000.csprojAssemblyReference.cache
+C:\Users\jessy\Desktop\Calculator-3000-The-RPG\Solution\Calculator3000\obj\Debug\netcoreapp3.0\Calculator3000.AssemblyInfoInputs.cache
+C:\Users\jessy\Desktop\Calculator-3000-The-RPG\Solution\Calculator3000\obj\Debug\netcoreapp3.0\Calculator3000.AssemblyInfo.cs
+C:\Users\jessy\Desktop\Calculator-3000-The-RPG\Solution\Calculator3000\obj\Debug\netcoreapp3.0\Calculator3000.dll
+C:\Users\jessy\Desktop\Calculator-3000-The-RPG\Solution\Calculator3000\obj\Debug\netcoreapp3.0\Calculator3000.pdb
